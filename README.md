@@ -5,7 +5,10 @@
 <hr/>
 <p> 🖥Atualmente sou estudante de Sistemas de Informação - 5º período </p>
 <p>🐍Aprendendo <b>Python</b> </p>
-<p>🧠Entusiasmada com <b> CSharp </b>
+<p>🧠Entusiasmada com <b> CSharp </b></p>
+<p>🖌Curiosa sobre design e interfaces</p>
+
+<hr/>
 
 ## Alguns estudos de caso
 
