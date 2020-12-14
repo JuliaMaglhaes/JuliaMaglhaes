@@ -13,20 +13,3 @@
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamaglhaes)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
-
-## Alguns estudos de caso
-
-| Consultório geral |
-| ----------- |
-| <img width="300" src="https://i.ibb.co/bX50z43/consultorio.png"> |
-| Repositório <a href="https://github.com/JuliaMaglhaes/SiteConsultorio">Clique aqui</a> |
-
-| Plataforma Crew |
-| ----------- |
-| <img width="300" src="https://i.ibb.co/WkQPH4p/crew.png"> |
-| Repositório <a href="https://github.com/JuliaMaglhaes/Jornic">Clique aqui</a> |
-
-| Pedra, Papel e Tesoura |
-| ----------- |
-| <img width="300" src="https://i.ibb.co/sKs1JhY/imagem.png"> |
-| Repositório <a href="https://github.com/JuliaMaglhaes/PedraPapelTesoura">Clique aqui</a> |
