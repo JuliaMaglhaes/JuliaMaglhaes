@@ -5,4 +5,21 @@
 <hr/>
 <p> 🖥Atualmente sou estudante de Sistemas de Informação - 5º período </p>
 <p>🐍Aprendendo <b>Python</b> </p>
-<p>🧠 Entusiasmada com <b> CSharp </b>
+<p>🧠Entusiasmada com <b> CSharp </b>
+
+## Alguns estudos de caso
+
+| Consultório geral |
+| ----------- |
+| <img width="300" src="https://i.ibb.co/bX50z43/consultorio.png"> |
+| Repositório <a href="https://github.com/JuliaMaglhaes/SiteConsultorio">Clique aqui</a> |
+
+| Plataforma Crew |
+| ----------- |
+| <img width="300" src="https://i.ibb.co/WkQPH4p/crew.png"> |
+| Repositório <a href="https://github.com/JuliaMaglhaes/Jornic">Clique aqui</a> |
+
+| Pedra, Papel e Tesoura |
+| ----------- |
+| <img width="300" src="https://i.ibb.co/sKs1JhY/imagem.png"> |
+| Repositório <a href="https://github.com/JuliaMaglhaes/PedraPapelTesoura">Clique aqui</a> |
