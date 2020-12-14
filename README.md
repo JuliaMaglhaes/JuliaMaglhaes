@@ -3,10 +3,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliamagalhaestorres/)](https://www.linkedin.com/in/juliamagalhaestorres/)
 
 <hr/>
-<p> 🖥Atualmente sou estudante de Sistemas de Informação - 5º período </p>
+<p> 🖥Atualmente sou estudante de Sistemas de Informação - 5º período </p> 
 <p>🐍Aprendendo <b>Python</b> </p>
 <p>🧠Entusiasmada com <b> CSharp </b></p>
 <p>🖌Curiosa sobre design e interfaces</p>
+
+<p> Estas são as linguagens que estou mais utilizando em meus projetos do GitHub ⤵ </p>
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamaglhaes)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
