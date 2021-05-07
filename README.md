@@ -4,8 +4,7 @@
 
 <hr/>
 <p> 🖥Atualmente sou estudante de Sistemas de Informação - 5º período </p> 
-<p>🐍Aprendendo <b>Python</b> </p>
-<p>🧠Entusiasmada com <b> CSharp </b></p>
+<p>🧠Entusiasmada com <b> ReactJs </b></p>
 <p>🖌Curiosa sobre design e interfaces</p>
 
 <p> Estas são as linguagens que estou mais utilizando em meus projetos do GitHub ⤵ </p>
