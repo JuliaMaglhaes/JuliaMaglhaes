@@ -3,8 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliamagalhaestorres/)](https://www.linkedin.com/in/juliamagalhaestorres/)
 
 <hr/>
-<p> 🖥Atualmente sou estudante de Sistemas de Informação - 5º período </p> 
-<p>🧠Entusiasmada com <b> ReactJs </b></p>
+<p> 🖥Atualmente formada em  Sistemas de Informação </p> 
+<p>🧠Entusiasmada com <b> ReactJs e Power BI </b></p>
 <p>🖌Curiosa sobre design e interfaces</p>
 
 <p> Estas são as linguagens que estou mais utilizando em meus projetos do GitHub ⤵ </p>
